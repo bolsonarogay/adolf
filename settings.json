@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "holymolyspm.aternos.me",
-    "port":33980,
+    "port": 33980,
     "version": "",
     "try-creative": false
   },
